@@ -1,16 +1,53 @@
-## Hi there 👋
+# 👋 Hi, I'm Ziekun
 
-<!--
-**Ikunmma/Ikunmma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 一名计算机专业的大三学生  
+💻 喜欢编程与探索新的计算机技术  
+📝 通过个人博客记录自己的学习过程  
+🌱 目前正在不断学习和提升中
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🙋 关于我
+
+你好！我是一名计算机专业的大三学生，对计算机技术有着浓厚的兴趣。平时喜欢学习和折腾一些新的技术，也会把学习过程中遇到的问题、知识总结以及实践经验记录下来。除了计算机之外，我还喜欢跑步、旅行，希望在学习之余去看看不同的地方，体验更多有趣的事情。
+我用 github + Stellar 搭建了自己的个人博客 **Hackun's Blog**，主要用来记录大学期间的学习笔记和技术实践：
+
+🌐 **Blog：** https://hackun.top
+
+GitHub 则主要用于保存自己的代码、课程项目以及一些学习实践，希望能够持续记录自己的成长过程。
+
+---
+
+## 🛠️ 技能与实践
+
+### 💻 专业技能
+
+目前学习和掌握了一些计算机专业的基础知识：
+
+- **编程语言：** C / C++（能用）、Python（会看）
+- **专业技术：** 网络安全（一些基础的漏洞 e.g.XSS、SQL注入等）、人工智能与深度学习（正在探索中）
+
+大学期间通过课程实验、编程练习和个人学习积累了一些实践经验，也接触过 **CTF、Web 安全、Linux** 等内容。有一年半的网络安全学习经历和两个月的项目经历。
+
+最近也在学习**AI + **相关知识，对 VAE、Diffusion Model 等内容进行了一些学习和总结，希望以后能够进一步探索，并逐渐找到适合自己深入学习和研究的方向。
+
+
+---
+
+## 🎯 未来三年
+
+未来三年，我希望继续打好计算机专业基础，在学习和实践中逐渐找到自己真正感兴趣、愿意深入探索的方向。目前我更倾向于继续攻读研究生，希望在本科剩余阶段多学习、多实践，积累一些项目和科研经验，为之后的研究生学习做好准备。未来也希望不断提升自己的编程能力、科研能力和解决实际问题的能力，一步一步找到适合自己的发展方向。
+
+---
+
+## 📫 Contact Me
+
+- 🐙 **GitHub：** https://github.com/Ikunmma
+- 🌐 **Blog：** https://hackun.top
+- 📧 **Email：** 2157342938@qq.com
+
+---
+
+> **Keep learning, keep coding, keep exploring. 🚀**
+
+希望能够通过 GitHub 和 Blog 记录自己的学习过程，也期待几年之后回头看时，能够看到自己的成长!
